@@ -1,0 +1,79 @@
+{
+  "data": [
+      {
+          "timestamp": {
+              "date": "2023-12-10T08:30:00"
+          },
+          "location": {
+              "latitude": 40.7128,
+              "longitude": -74.0060
+          },
+          "vehicle": {
+              "license_plate": "ABC123",
+              "model": "Toyota Camry"
+          },
+          "impact_severity": "high",
+          "sensor_id": "SENSOR-001"
+      },
+      {
+          "timestamp": {
+              "date": "2023-12-11T09:00:00"
+          },
+          "location": {
+              "latitude": 38.9072,
+              "longitude": -77.0369
+          },
+          "vehicle": {
+              "license_plate": "XYZ789",
+              "model": "Honda Accord"
+          },
+          "impact_severity": "medium",
+          "sensor_id": "SENSOR-002"
+      },
+      {
+          "timestamp": {
+              "date": "2023-12-12T10:15:00"
+          },
+          "location": {
+              "latitude": 34.0522,
+              "longitude": -118.2437
+          },
+          "vehicle": {
+              "license_plate": "DEF456",
+              "model": "Ford Mustang"
+          },
+          "impact_severity": "low",
+          "sensor_id": "SENSOR-003"
+      },
+      {
+          "timestamp": {
+              "date": "2023-12-13T11:45:00"
+          },
+          "location": {
+              "latitude": 41.8781,
+              "longitude": -87.6298
+          },
+          "vehicle": {
+              "license_plate": "GHI789",
+              "model": "Chevrolet Malibu"
+          },
+          "impact_severity": "high",
+          "sensor_id": "SENSOR-004"
+      },
+      {
+          "timestamp": {
+              "date": "2023-12-14T12:30:00"
+          },
+          "location": {
+              "latitude": 51.5074,
+              "longitude": -0.1278
+          },
+          "vehicle": {
+              "license_plate": "JKL012",
+              "model": "Tesla Model S"
+          },
+          "impact_severity": "medium",
+          "sensor_id": "SENSOR-005"
+      }
+  ]
+}
